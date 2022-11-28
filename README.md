@@ -1,2 +1,2 @@
-# conflits
+REMOTE
 hello this is MERGE & CONFLITS !
